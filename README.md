@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshRao18/SQL-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0932-monotonic-array](https://github.com/MukeshRao18/SQL-/tree/master/0932-monotonic-array) |
+| [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MukeshRao18/SQL-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/MukeshRao18/SQL-/tree/master/2714-left-and-right-sum-differences) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
+## Simulation
+|  |
+| ------- |
+| [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
