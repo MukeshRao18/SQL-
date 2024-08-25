@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0145-binary-tree-postorder-traversal) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
@@ -48,4 +49,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0145-binary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
