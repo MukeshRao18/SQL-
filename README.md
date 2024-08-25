@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MukeshRao18/SQL-/tree/master/0033-search-in-rotated-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MukeshRao18/SQL-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MukeshRao18/SQL-/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
