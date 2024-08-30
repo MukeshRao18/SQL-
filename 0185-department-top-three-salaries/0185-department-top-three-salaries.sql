@@ -5,7 +5,7 @@ SELECT
     e.salary AS Salary
 FROM 
     Employee e
-INNER JOIN 
+JOIN 
     Department d ON e.departmentId = d.id
 WHERE 
     (SELECT COUNT(DISTINCT e2.salary) 
