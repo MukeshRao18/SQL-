@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/MukeshRao18/SQL-/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/MukeshRao18/SQL-/tree/master/0585-investments-in-2016) |
 | [0596-classes-more-than-5-students](https://github.com/MukeshRao18/SQL-/tree/master/0596-classes-more-than-5-students) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/MukeshRao18/SQL-/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/MukeshRao18/SQL-/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/MukeshRao18/SQL-/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/MukeshRao18/SQL-/tree/master/1155-product-sales-analysis-iii) |
