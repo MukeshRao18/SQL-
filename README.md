@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1773-percentage-of-users-attended-a-contest](https://github.com/MukeshRao18/SQL-/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/MukeshRao18/SQL-/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/MukeshRao18/SQL-/tree/master/1877-find-followers-count) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/MukeshRao18/SQL-/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/MukeshRao18/SQL-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
