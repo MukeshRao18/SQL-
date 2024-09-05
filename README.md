@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukeshRao18/SQL-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MukeshRao18/SQL-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/MukeshRao18/SQL-/tree/master/2155-find-missing-observations) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MukeshRao18/SQL-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2714-left-and-right-sum-differences](https://github.com/MukeshRao18/SQL-/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/MukeshRao18/SQL-/tree/master/2727-number-of-senior-citizens) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukeshRao18/SQL-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MukeshRao18/SQL-/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2155-find-missing-observations](https://github.com/MukeshRao18/SQL-/tree/master/2155-find-missing-observations) |
 ## Union Find
 |  |
 | ------- |
@@ -140,4 +142,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/MukeshRao18/SQL-/tree/master/0564-find-the-closest-palindrome) |
+| [2155-find-missing-observations](https://github.com/MukeshRao18/SQL-/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
