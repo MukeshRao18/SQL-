@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshRao18/SQL-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 | [0932-monotonic-array](https://github.com/MukeshRao18/SQL-/tree/master/0932-monotonic-array) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Stack
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MukeshRao18/SQL-/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0564-find-the-closest-palindrome](https://github.com/MukeshRao18/SQL-/tree/master/0564-find-the-closest-palindrome) |
 | [2155-find-missing-observations](https://github.com/MukeshRao18/SQL-/tree/master/2155-find-missing-observations) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
