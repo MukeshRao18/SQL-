@@ -11,9 +11,6 @@ public:
                 cnt++;
                 i++;j++;
             }
-            else if(g[i]<s[j]){
-                i++;
-            }
             else{
                 j++;
             }
