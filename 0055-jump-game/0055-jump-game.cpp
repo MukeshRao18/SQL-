@@ -7,7 +7,7 @@ public:
     }
     
     bool solve(vector<int>& nums, int idx, int n, vector<int>& memo) {
-        if (idx == n) {
+        if (idx >= n) {
             return true;
         }
         
