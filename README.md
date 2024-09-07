@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MukeshRao18/SQL-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/MukeshRao18/SQL-/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/MukeshRao18/SQL-/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MukeshRao18/SQL-/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/MukeshRao18/SQL-/tree/master/0932-monotonic-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/MukeshRao18/SQL-/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/MukeshRao18/SQL-/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/MukeshRao18/SQL-/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/MukeshRao18/SQL-/tree/master/0890-lemonade-change) |
