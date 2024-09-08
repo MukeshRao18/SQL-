@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MukeshRao18/SQL-/tree/master/0234-palindrome-linked-list) |
+| [0725-split-linked-list-in-parts](https://github.com/MukeshRao18/SQL-/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
