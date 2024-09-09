@@ -27,18 +27,21 @@ public:
                 temp=temp->next;
             }
             right--;
-
+            if(top<=bottom){
             for(int i=right;i>=left&&temp!=NULL;i--){
                 arr[bottom][i]=temp->val;
                 temp=temp->next;
             }
             bottom--;
-
+            }
+            
+            if(left<=right){
             for(int i=bottom;i>=top&&temp!=NULL;i--){
                 arr[i][left]=temp->val;
                 temp=temp->next;
             }
               left++;
+            }
         }
         return arr;
     }
