@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/MukeshRao18/SQL-/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/MukeshRao18/SQL-/tree/master/0932-monotonic-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/MukeshRao18/SQL-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukeshRao18/SQL-/tree/master/1046-max-consecutive-ones-iii) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -91,12 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukeshRao18/SQL-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/MukeshRao18/SQL-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukeshRao18/SQL-/tree/master/1046-max-consecutive-ones-iii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MukeshRao18/SQL-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukeshRao18/SQL-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/MukeshRao18/SQL-/tree/master/0966-binary-subarrays-with-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/MukeshRao18/SQL-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukeshRao18/SQL-/tree/master/1046-max-consecutive-ones-iii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukeshRao18/SQL-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2714-left-and-right-sum-differences](https://github.com/MukeshRao18/SQL-/tree/master/2714-left-and-right-sum-differences) |
