@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukeshRao18/SQL-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0564-find-the-closest-palindrome](https://github.com/MukeshRao18/SQL-/tree/master/0564-find-the-closest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/MukeshRao18/SQL-/tree/master/0678-valid-parenthesis-string) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/MukeshRao18/SQL-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2727-number-of-senior-citizens](https://github.com/MukeshRao18/SQL-/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/MukeshRao18/SQL-/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukeshRao18/SQL-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/MukeshRao18/SQL-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MukeshRao18/SQL-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Hash Table
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukeshRao18/SQL-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/MukeshRao18/SQL-/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/MukeshRao18/SQL-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Sorting
 |  |
