@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0547-number-of-provinces](https://github.com/MukeshRao18/SQL-/tree/master/0547-number-of-provinces) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MukeshRao18/SQL-/tree/master/0547-number-of-provinces) |
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/MukeshRao18/SQL-/tree/master/0547-number-of-provinces) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
 ## Linked List
 |  |
@@ -200,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/MukeshRao18/SQL-/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/MukeshRao18/SQL-/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/MukeshRao18/SQL-/tree/master/0678-valid-parenthesis-string) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MukeshRao18/SQL-/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
