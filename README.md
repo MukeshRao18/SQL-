@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/MukeshRao18/SQL-/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/MukeshRao18/SQL-/tree/master/0932-monotonic-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/MukeshRao18/SQL-/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/MukeshRao18/SQL-/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/MukeshRao18/SQL-/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MukeshRao18/SQL-/tree/master/0547-number-of-provinces) |
+| [1036-rotting-oranges](https://github.com/MukeshRao18/SQL-/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/MukeshRao18/SQL-/tree/master/1036-rotting-oranges) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MukeshRao18/SQL-/tree/master/2132-convert-1d-array-into-2d-array) |
