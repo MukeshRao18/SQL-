@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/MukeshRao18/SQL-/tree/master/0678-valid-parenthesis-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/MukeshRao18/SQL-/tree/master/1197-parsing-a-boolean-expression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MukeshRao18/SQL-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/MukeshRao18/SQL-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2727-number-of-senior-citizens](https://github.com/MukeshRao18/SQL-/tree/master/2727-number-of-senior-citizens) |
 ## Sliding Window
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/MukeshRao18/SQL-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukeshRao18/SQL-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MukeshRao18/SQL-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MukeshRao18/SQL-/tree/master/2155-find-missing-observations) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/MukeshRao18/SQL-/tree/master/0234-palindrome-linked-list) |
 | [1197-parsing-a-boolean-expression](https://github.com/MukeshRao18/SQL-/tree/master/1197-parsing-a-boolean-expression) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/MukeshRao18/SQL-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Math
 |  |
 | ------- |
