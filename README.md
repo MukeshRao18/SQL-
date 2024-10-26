@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MukeshRao18/SQL-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2411-spiral-matrix-iv](https://github.com/MukeshRao18/SQL-/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MukeshRao18/SQL-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MukeshRao18/SQL-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2714-left-and-right-sum-differences](https://github.com/MukeshRao18/SQL-/tree/master/2714-left-and-right-sum-differences) |
 | [2727-number-of-senior-citizens](https://github.com/MukeshRao18/SQL-/tree/master/2727-number-of-senior-citizens) |
 ## Depth-First Search
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MukeshRao18/SQL-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MukeshRao18/SQL-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MukeshRao18/SQL-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MukeshRao18/SQL-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Matrix
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MukeshRao18/SQL-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MukeshRao18/SQL-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MukeshRao18/SQL-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Tree
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/MukeshRao18/SQL-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/MukeshRao18/SQL-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/MukeshRao18/SQL-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MukeshRao18/SQL-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search
