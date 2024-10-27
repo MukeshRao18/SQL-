@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/MukeshRao18/SQL-/tree/master/1046-max-consecutive-ones-iii) |
 | [1256-rank-transform-of-an-array](https://github.com/MukeshRao18/SQL-/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MukeshRao18/SQL-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1525-queries-on-a-permutation-with-key](https://github.com/MukeshRao18/SQL-/tree/master/1525-queries-on-a-permutation-with-key) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/MukeshRao18/SQL-/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MukeshRao18/SQL-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MukeshRao18/SQL-/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/MukeshRao18/SQL-/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MukeshRao18/SQL-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/MukeshRao18/SQL-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MukeshRao18/SQL-/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/MukeshRao18/SQL-/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/MukeshRao18/SQL-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/MukeshRao18/SQL-/tree/master/0678-valid-parenthesis-string) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/MukeshRao18/SQL-/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Graph
 |  |
 | ------- |
