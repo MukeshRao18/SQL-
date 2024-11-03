@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/MukeshRao18/SQL-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0564-find-the-closest-palindrome](https://github.com/MukeshRao18/SQL-/tree/master/0564-find-the-closest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/MukeshRao18/SQL-/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/MukeshRao18/SQL-/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/MukeshRao18/SQL-/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MukeshRao18/SQL-/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MukeshRao18/SQL-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MukeshRao18/SQL-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/MukeshRao18/SQL-/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
