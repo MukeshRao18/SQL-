@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MukeshRao18/SQL-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2580-circular-sentence](https://github.com/MukeshRao18/SQL-/tree/master/2580-circular-sentence) |
 | [2727-number-of-senior-citizens](https://github.com/MukeshRao18/SQL-/tree/master/2727-number-of-senior-citizens) |
+| [3451-string-compression-iii](https://github.com/MukeshRao18/SQL-/tree/master/3451-string-compression-iii) |
 ## Sliding Window
 |  |
 | ------- |
