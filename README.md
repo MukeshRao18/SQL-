@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MukeshRao18/SQL-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MukeshRao18/SQL-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3394-minimum-array-end](https://github.com/MukeshRao18/SQL-/tree/master/3394-minimum-array-end) |
 ## Brainteaser
 |  |
 | ------- |
