@@ -1,12 +1,12 @@
 class Solution {
 public:
     bool primeSubOperation(vector<int>& nums) {
-        int maxElement = getMaxElement(nums);
+        int maxElement = *max_element(nums.begin(), nums.end());
         
-        // Create Sieve of Eratosthenes array to identify prime numbers
+        // Generate a list of all prime numbers up to maxElement using the sieve method
         vector<bool> sieve(maxElement + 1, true);
-        sieve[1] = false;
-        for (int i = 2; i <= sqrt(maxElement + 1); i++) {
+        sieve[0] = sieve[1] = false;  // 0 and 1 are not primes
+        for (int i = 2; i * i <= maxElement; ++i) {
             if (sieve[i]) {
                 for (int j = i * i; j <= maxElement; j += i) {
                     sieve[j] = false;
@@ -14,37 +14,31 @@ public:
             }
         }
         
-        // Check if array can be made strictly increasing by subtracting prime numbers
-        int currValue = 1;
-        int i = 0;
-        while (i < nums.size()) {
-            int difference = nums[i] - currValue;
-            
-            // Return false if current number is already smaller than required value
-            if (difference < 0) {
-                return false;
+        // Collect prime numbers in an array
+        vector<int> primes;
+        for (int i = 2; i <= maxElement; ++i) {
+            if (sieve[i]) {
+                primes.push_back(i);
             }
-            
-            // Move to next number if difference is prime or zero
-            if (sieve[difference] == true || difference == 0) {
-                i++;
-                currValue++;
-            } else {
-                currValue++;
+        }
+        
+        int n = nums.size();
+        for (int i = n - 2; i >= 0; --i) {
+            if (nums[i] < nums[i + 1]) {
+                continue;
+            }
+            // Iterate through precomputed primes in reverse
+            for (int p : primes) {
+                if (p >= nums[i]) break;  // Stop if the prime is greater than or equal to the current number
+                if (nums[i] - p < nums[i + 1]) {
+                    nums[i] -= p;
+                    break;
+                }
+            }
+            if (nums[i] >= nums[i + 1]) {
+                return false;
             }
         }
         return true;
-    }
-    
-private:
-    // Helper method to find maximum element in array
-    int getMaxElement(vector<int>& nums) {
-        int max = -1;
-        for (int num : nums) {
-            if (num > max) {
-                max = num;
-            }
-        }
-        return max;
     }
 };
