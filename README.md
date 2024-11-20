@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/MukeshRao18/SQL-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/MukeshRao18/SQL-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2580-circular-sentence](https://github.com/MukeshRao18/SQL-/tree/master/2580-circular-sentence) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/MukeshRao18/SQL-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/MukeshRao18/SQL-/tree/master/2727-number-of-senior-citizens) |
 | [3451-string-compression-iii](https://github.com/MukeshRao18/SQL-/tree/master/3451-string-compression-iii) |
 ## Sliding Window
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/MukeshRao18/SQL-/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/MukeshRao18/SQL-/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MukeshRao18/SQL-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/MukeshRao18/SQL-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/MukeshRao18/SQL-/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/MukeshRao18/SQL-/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/MukeshRao18/SQL-/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MukeshRao18/SQL-/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MukeshRao18/SQL-/tree/master/2586-longest-square-streak-in-an-array) |
+| [2599-take-k-of-each-character-from-left-and-right](https://github.com/MukeshRao18/SQL-/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/MukeshRao18/SQL-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Sorting
 |  |
