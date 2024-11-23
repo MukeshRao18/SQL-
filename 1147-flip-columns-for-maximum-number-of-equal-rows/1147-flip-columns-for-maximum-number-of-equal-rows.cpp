@@ -1,22 +1,24 @@
 class Solution {
 public:
-    int maxEqualRowsAfterFlips(vector<vector<int>>& mat) {
-        unordered_map<string, int> patFreq;
-        
-        for (const auto& row : mat) {
-            string pattern;
-            if (row[0] == 0) {
-                for (int bit : row) pattern += to_string(bit);
-            } else {
-                for (int bit : row) pattern += to_string(bit ^ 1);
+    int maxEqualRowsAfterFlips(vector<vector<int>>& matrix) {
+        unordered_map<string,int> mpp;
+        int m=matrix[0].size();
+        for(auto a:matrix){
+            string s="";
+            for(int i=0;i<m;i++){
+                if(a[i]==a[0]){
+                    s+="s";
+                }
+                else{
+                    s+="b";
+                }
             }
-            patFreq[pattern]++;
+            mpp[s]++;
         }
-        
-        int maxFreq = 0;
-        for (const auto& pair : patFreq) {
-            maxFreq = max(maxFreq, pair.second);
+        int maxi=INT_MIN;
+        for(auto a:mpp){
+            maxi=max(maxi,a.second);
         }
-        return maxFreq;
+        return maxi;
     }
 };
