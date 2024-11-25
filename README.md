@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MukeshRao18/SQL-/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/MukeshRao18/SQL-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MukeshRao18/SQL-/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/MukeshRao18/SQL-/tree/master/0787-sliding-puzzle) |
 | [0890-lemonade-change](https://github.com/MukeshRao18/SQL-/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MukeshRao18/SQL-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0932-monotonic-array](https://github.com/MukeshRao18/SQL-/tree/master/0932-monotonic-array) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MukeshRao18/SQL-/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/MukeshRao18/SQL-/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/MukeshRao18/SQL-/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/MukeshRao18/SQL-/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/MukeshRao18/SQL-/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/MukeshRao18/SQL-/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0542-01-matrix](https://github.com/MukeshRao18/SQL-/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/MukeshRao18/SQL-/tree/master/0733-flood-fill) |
+| [0787-sliding-puzzle](https://github.com/MukeshRao18/SQL-/tree/master/0787-sliding-puzzle) |
 | [1036-rotting-oranges](https://github.com/MukeshRao18/SQL-/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MukeshRao18/SQL-/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MukeshRao18/SQL-/tree/master/1402-count-square-submatrices-with-all-ones) |
