@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MukeshRao18/SQL-/tree/master/0547-number-of-provinces) |
+| [3189-find-champion-ii](https://github.com/MukeshRao18/SQL-/tree/master/3189-find-champion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
