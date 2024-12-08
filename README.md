@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/MukeshRao18/SQL-/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/MukeshRao18/SQL-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/MukeshRao18/SQL-/tree/master/2155-find-missing-observations) |
+| [2164-two-best-non-overlapping-events](https://github.com/MukeshRao18/SQL-/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MukeshRao18/SQL-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MukeshRao18/SQL-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/MukeshRao18/SQL-/tree/master/2232-adding-spaces-to-a-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/MukeshRao18/SQL-/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/MukeshRao18/SQL-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/MukeshRao18/SQL-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [2164-two-best-non-overlapping-events](https://github.com/MukeshRao18/SQL-/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MukeshRao18/SQL-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MukeshRao18/SQL-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/MukeshRao18/SQL-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/MukeshRao18/SQL-/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/MukeshRao18/SQL-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/MukeshRao18/SQL-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2164-two-best-non-overlapping-events](https://github.com/MukeshRao18/SQL-/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/MukeshRao18/SQL-/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/MukeshRao18/SQL-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MukeshRao18/SQL-/tree/master/2586-longest-square-streak-in-an-array) |
@@ -330,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/MukeshRao18/SQL-/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/MukeshRao18/SQL-/tree/master/0678-valid-parenthesis-string) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/MukeshRao18/SQL-/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2164-two-best-non-overlapping-events](https://github.com/MukeshRao18/SQL-/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/MukeshRao18/SQL-/tree/master/2586-longest-square-streak-in-an-array) |
 ## Graph
 |  |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/MukeshRao18/SQL-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2164-two-best-non-overlapping-events](https://github.com/MukeshRao18/SQL-/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/MukeshRao18/SQL-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/MukeshRao18/SQL-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Monotonic Queue
